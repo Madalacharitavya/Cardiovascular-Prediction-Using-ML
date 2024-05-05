@@ -20,6 +20,7 @@
   
 #### Final Week
 - Presented our paper at ICCSP '24 organized by IEEE.
+- We got certificates for our paper presentation to Publish in IEEE
 - Contributors: Charitavya Madala, Deepak Tallapudi, Srikari Malladi, Mahith Chimata.
 
 #### License
