@@ -21,7 +21,7 @@
 #### Final Week
 - Presented our paper at ICCSP '24 organized by IEEE.
 - We got certificates for our paper presentation to Publish in IEEE
-- Contributors: Charitavya Madala, Deepak Tallapudi, Srikari Malladi, Mahith Chimata.
+- Contributors: Charitavya Madala, Deepak Tallapudi, Srikari Malladi, Mahitha Chimata.
 
 #### License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
@@ -38,7 +38,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-By Charitavya Madala, Deepak Tallapudi, Srikari Malladi, Mahith Chimata
+By Charitavya Madala, Deepak Tallapudi, Srikari Malladi, Mahitha Chimata
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Feel free to explore the project files to understand our methodology and findings better. If you have any questions or feedback, please reach out to the contributors mentioned above.
